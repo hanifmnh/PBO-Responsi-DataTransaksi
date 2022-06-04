@@ -8,7 +8,7 @@ Nama : Muhammad Nur Hanif
 
 NIM : 123200123
 
-Kelas : PBO IF-D
+Kelas : PBO IF-F
 
 # Catatan
 Buatlah program untuk mengelola data catatan transaksi yang berisi :
